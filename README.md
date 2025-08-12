@@ -2,7 +2,7 @@
 
 An end-to-end Insurance Data Analysis project using SQL for data extraction &amp; Power BI for interactive insights and visualization.
 
-### 🔗 Dashboard Link: *(Add your Power BI Service link here)*  
+### 🔗 Dashboard Link: *(https://app.powerbi.com/reportEmbed?reportId=c1a40dd7-9b66-4e20-94a5-eca12a6c3691&autoAuth=true&ctid=139d96a4-e139-46d3-9090-54d3150e3ca2)*  
 
 ---
 
@@ -50,6 +50,9 @@ LEFT JOIN Claims cl ON p.PolicyNumber = cl.PolicyNumber
 WHERE p.PolicyStatus = 'Active';
 
 ```
+
+---
+
 
 ### **Step 2 – Data Loading in Power BI** 📥  
 - Imported the **cleaned SQL dataset** into **Power BI Desktop** using **DirectQuery** for live connection to the database.  
@@ -107,6 +110,15 @@ WHERE p.PolicyStatus = 'Active';
    📸 *Add screenshot here*  
 
 ---
+
+13. **Published Dashboard** – Power BI Service View  
+
+   ![Published Dashboard](https://github.com/user-attachments/assets/aea47030-c63b-4591-b552-2ca9f01d2747)  
+
+
+---
+
+
 
 ## 📌 Insights  
 
