@@ -89,27 +89,27 @@ WHERE p.PolicyStatus = 'Active';
    ![KPI Cards](https://github.com/user-attachments/assets/a2c36765-ac1c-4e2f-9d6f-565217b3371f)  
 
 2. **Bar Chart** – Number of claims by status (Rejected, Settled, Pending)  
+   ![Ribbon Chart](https://github.com/user-attachments/assets/1cd8beeb-955a-4e0b-bb99-8c52ec0d501c)
+
+4. **Area Chart** – Premium amount by policy type (Travel, Health, Auto, Life, Home)  
    ![Bar Chart ](https://github.com/user-attachments/assets/8bdc267c-3390-4cd3-81b5-d881f597a020) 
 
-3. **Area Chart** – Premium amount by policy type (Travel, Health, Auto, Life, Home)  
-   ![Area Chart](https://github.com/user-attachments/assets/4de790bd-b9e6-41ae-b7cc-08c5e8e6517d)  
+6. **Ribbon Chart** – Claim amount by age group (Adult, Elder, Young Adult)  
+    ![Area Chart](https://github.com/user-attachments/assets/4de790bd-b9e6-41ae-b7cc-08c5e8e6517d) 
 
-4. **Ribbon Chart** – Claim amount by age group (Adult, Elder, Young Adult)  
-   ![Ribbon Chart](https://github.com/user-attachments/assets/1cd8beeb-955a-4e0b-bb99-8c52ec0d501c)  
-
-5. **Donut Chart** – Active vs Inactive policies  
+7. **Donut Chart** – Active vs Inactive policies  
    ![Donut Chart](https://github.com/user-attachments/assets/9d1fae49-d95e-4f8b-b8c1-bf65bb88d208)  
 
-6. **Table** – Claim amount breakdown by policy type and status  
+8. **Table** – Claim amount breakdown by policy type and status  
    ![Table](https://github.com/user-attachments/assets/103bb45d-26a5-40ab-850e-33b5595d10f6)  
 
-7. **Word Cloud** – Sentiment keywords from customer feedback  
+9. **Word Cloud** – Sentiment keywords from customer feedback  
    ![Word Cloud](https://github.com/user-attachments/assets/1cb4ecde-cddc-4666-90e5-529ba9b39ef9)
 
-8. **Table** – Detailed customer feedback with sentiment scores  
+10. **Table** – Detailed customer feedback with sentiment scores  
    ![Feedback Table](https://github.com/user-attachments/assets/5b9fa663-e8b7-4944-b63a-67f578c14134)  
 
-9. **Published Dashboard** – Power BI Service View  
+11. **Published Dashboard** – Power BI Service View  
 
    ![Published Dashboard](https://github.com/user-attachments/assets/10a0db53-52ae-4ba1-a551-9ee4d76e6f30)  
 
