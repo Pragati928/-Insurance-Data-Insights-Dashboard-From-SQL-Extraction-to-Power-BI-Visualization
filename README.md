@@ -2,6 +2,12 @@
 
 An end-to-end Insurance Data Analysis project using SQL for data extraction &amp; Power BI for interactive insights and visualization.
 
+https://github.com/user-attachments/assets/a2daae2e-8478-45ee-ba90-dd337dda00c8
+
+https://github.com/user-attachments/assets/09e7e711-e844-4455-bcd6-ebc6c1fccf57
+
+
+
 ### 🔗 Dashboard Link: *(https://app.powerbi.com/view?r=eyJrIjoiNjA4MjU0NzAtY2U5NC00OGMzLWI5YWItZjA0MmU2ZjBkMjIxIiwidCI6IjEzOWQ5NmE0LWUxMzktNDZkMy05MDkwLTU0ZDMxNTBlM2NhMiJ9)*  
 
 ---
