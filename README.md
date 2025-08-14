@@ -86,19 +86,19 @@ WHERE p.PolicyStatus = 'Active';
 ### **Step 5 – Visuals Created** 📊  
 
 1. **KPI Cards** – Total Premium, Coverage, Claim Amount  
-   [KPI Cards](https://github.com/user-attachments/assets/a2c36765-ac1c-4e2f-9d6f-565217b3371f)  
+   ![KPI Cards](https://github.com/user-attachments/assets/a2c36765-ac1c-4e2f-9d6f-565217b3371f)  
 
 2. **Bar Chart** – Number of claims by status (Rejected, Settled, Pending)  
-   📸 *Add screenshot here*  
+   ![Bar Chart ](https://github.com/user-attachments/assets/8bdc267c-3390-4cd3-81b5-d881f597a020) 
 
-3. **Bar Chart** – Premium amount by policy type (Travel, Health, Auto, Life, Home)  
-   📸 *Add screenshot here*  
+3. **Area Chart** – Premium amount by policy type (Travel, Health, Auto, Life, Home)  
+   ![Area Chart](https://github.com/user-attachments/assets/4de790bd-b9e6-41ae-b7cc-08c5e8e6517d)  
 
-4. **Bar Chart** – Claim amount by age group (Adult, Elder, Young Adult)  
-   📸 *Add screenshot here*  
+4. **Ribbon Chart** – Claim amount by age group (Adult, Elder, Young Adult)  
+   ![Ribbon Chart](https://github.com/user-attachments/assets/1cd8beeb-955a-4e0b-bb99-8c52ec0d501c)  
 
 5. **Donut Chart** – Active vs Inactive policies  
-   📸 *Add screenshot here*  
+   ![Donut Chart](https://github.com/user-attachments/assets/9d1fae49-d95e-4f8b-b8c1-bf65bb88d208)  
 
 6. **Table** – Claim amount breakdown by policy type and status  
    ![Table](https://github.com/user-attachments/assets/103bb45d-26a5-40ab-850e-33b5595d10f6)  
