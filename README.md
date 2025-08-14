@@ -167,7 +167,7 @@ WHERE p.PolicyStatus = 'Active';
 
 **Pragati Kumari**  
 _Data Analyst | Power BI | Excel | SQL | Python_  
-🔗 [LinkedIn](#) *(Add your actual profile link)*  
+🔗 [LinkedIn](#) *(https://www.linkedin.com/in/pragati-kumari-b60352305)*  
 
 ---
 
