@@ -86,7 +86,7 @@ WHERE p.PolicyStatus = 'Active';
 ### **Step 5 – Visuals Created** 📊  
 
 1. **KPI Cards** – Total Premium, Coverage, Claim Amount  
-   📸 [*KPI Cards*](https://github.com/user-attachments/assets/a2c36765-ac1c-4e2f-9d6f-565217b3371f)  
+   [KPI Cards](https://github.com/user-attachments/assets/a2c36765-ac1c-4e2f-9d6f-565217b3371f)  
 
 2. **Bar Chart** – Number of claims by status (Rejected, Settled, Pending)  
    📸 *Add screenshot here*  
@@ -101,13 +101,13 @@ WHERE p.PolicyStatus = 'Active';
    📸 *Add screenshot here*  
 
 6. **Table** – Claim amount breakdown by policy type and status  
-   📸 *Add screenshot here*  
+   ![Table](https://github.com/user-attachments/assets/103bb45d-26a5-40ab-850e-33b5595d10f6)  
 
 7. **Word Cloud** – Sentiment keywords from customer feedback  
-   📸 *Add screenshot here*  
+   ![Word Cloud](https://github.com/user-attachments/assets/1cb4ecde-cddc-4666-90e5-529ba9b39ef9)
 
 8. **Table** – Detailed customer feedback with sentiment scores  
-   📸![Feedback Table](https://github.com/user-attachments/assets/5b9fa663-e8b7-4944-b63a-67f578c14134)  
+   ![Feedback Table](https://github.com/user-attachments/assets/5b9fa663-e8b7-4944-b63a-67f578c14134)  
 
 9. **Published Dashboard** – Power BI Service View  
 
