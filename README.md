@@ -2,7 +2,7 @@
 
 An end-to-end Insurance Data Analysis project using SQL for data extraction &amp; Power BI for interactive insights and visualization.
 
-### 🔗 Dashboard Link: *(https://app.powerbi.com/reportEmbed?reportId=c1a40dd7-9b66-4e20-94a5-eca12a6c3691&autoAuth=true&ctid=139d96a4-e139-46d3-9090-54d3150e3ca2)*  
+### 🔗 Dashboard Link: *(https://app.powerbi.com/view?r=eyJrIjoiNjA4MjU0NzAtY2U5NC00OGMzLWI5YWItZjA0MmU2ZjBkMjIxIiwidCI6IjEzOWQ5NmE0LWUxMzktNDZkMy05MDkwLTU0ZDMxNTBlM2NhMiJ9)*  
 
 ---
 
@@ -86,7 +86,7 @@ WHERE p.PolicyStatus = 'Active';
 ### **Step 5 – Visuals Created** 📊  
 
 1. **KPI Cards** – Total Premium, Coverage, Claim Amount  
-   📸 *Add screenshot here*  
+   📸 [*KPI Cards*](https://github.com/user-attachments/assets/a2c36765-ac1c-4e2f-9d6f-565217b3371f)  
 
 2. **Bar Chart** – Number of claims by status (Rejected, Settled, Pending)  
    📸 *Add screenshot here*  
@@ -107,13 +107,11 @@ WHERE p.PolicyStatus = 'Active';
    📸 *Add screenshot here*  
 
 8. **Table** – Detailed customer feedback with sentiment scores  
-   📸 *Add screenshot here*  
+   📸 [*Feedback Table*](https://github.com/user-attachments/assets/5b9fa663-e8b7-4944-b63a-67f578c14134)  
 
----
+9. **Published Dashboard** – Power BI Service View  
 
-13. **Published Dashboard** – Power BI Service View  
-
-   ![Published Dashboard](https://github.com/user-attachments/assets/aea47030-c63b-4591-b552-2ca9f01d2747)  
+   ![Published Dashboard](https://github.com/user-attachments/assets/10a0db53-52ae-4ba1-a551-9ee4d76e6f30)  
 
 
 ---
