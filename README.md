@@ -107,7 +107,7 @@ WHERE p.PolicyStatus = 'Active';
    📸 *Add screenshot here*  
 
 8. **Table** – Detailed customer feedback with sentiment scores  
-   📸 [*Feedback Table*](https://github.com/user-attachments/assets/5b9fa663-e8b7-4944-b63a-67f578c14134)  
+   📸![Feedback Table](https://github.com/user-attachments/assets/5b9fa663-e8b7-4944-b63a-67f578c14134)  
 
 9. **Published Dashboard** – Power BI Service View  
 
